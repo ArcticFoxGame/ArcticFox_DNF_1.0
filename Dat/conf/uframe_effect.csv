@@ -1,0 +1,15 @@
+特效名称,图片位置,是否混合,颜色值,Y偏移
+家_镭射灯光,Dat/dnf_mapimg/家/1.png,1,0,0
+家_灯台灯光,Dat/dnf_mapimg/家/light2.png,1,0,0
+家_出口灯光,Dat/dnf_mapimg/家/light3.png,1,0,0
+门点_洛兰_下普通,Dat/dnf_mapimg/pathgate/1.png,0,0,185
+门点_洛兰_左普通,Dat/dnf_mapimg/pathgate/2.png,0,0,185
+门点_洛兰_右普通,Dat/dnf_mapimg/pathgate/2.png,0,0,185
+门点_洛兰_上普通,Dat/dnf_mapimg/pathgate/3.png,0,0,165
+门点_洛兰_下BOSS,Dat/dnf_mapimg/pathgate/4.png,0,0,185
+门点_洛兰_左BOSS,Dat/dnf_mapimg/pathgate/5.png,0,0,185
+门点_洛兰_右BOSS,Dat/dnf_mapimg/pathgate/5.png,0,0,185
+门点_洛兰_上BOSS,Dat/dnf_mapimg/pathgate/6.png,0,0,175
+西海岸码头,Dat/dnf_mapimg/赫顿玛尔大/船头.png,0,1,180
+阿法利亚入口门点_大,Dat/dnf_mapimg/艾尔文防线/阿法利亚入口门点大.png,,0,0
+阿法利亚入口门点_小,Dat/dnf_mapimg/艾尔文防线/阿法利亚入口门点小.png,,0,0
