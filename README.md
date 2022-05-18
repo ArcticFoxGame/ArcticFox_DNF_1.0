@@ -5,9 +5,11 @@
 
 #### 软件架构
 
-ArcticFox_DNF_1.0 采用 【[Galaxy2D Game Engine](https://pan.baidu.com/s/1Q_pXRdBAVGh82cH95AMfiQ "Galaxy2D Game Engine")】 开发。
+ArcticFox_DNF_1.0 采用 【[Galaxy2D Game Engine]( "Galaxy2D Game Engine")】 开发。
 
-你可以下载它，然后自行修改做成自己的游戏。
+你可以下载它，然后自行修改进行Lua的代码学习。
+
+仅供学习研究ACT格斗使用，请勿用于商业行为！
 
 #### 其他说明
 
